@@ -10,7 +10,7 @@ Spring Boot 로 Blog API 서비스를 만들어 보자
 
 [**GitHub**](https://github.com/JangTaeGyu/spring-boot-blog-api)
 
---- 
+===
 
 ### 6월 프로젝트
 
