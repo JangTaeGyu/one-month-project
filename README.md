@@ -10,11 +10,11 @@ Spring Boot 로 Blog API 서비스를 만들어 보자
 
 [**GitHub**](https://github.com/JangTaeGyu/spring-boot-blog-api)
 
-===
 
 ### 6월 프로젝트
 
 TODO - Gradle 를 활용해서 멀티 모듈 프로젝트를 만들어 보자
+
 
 ### 7월 프로젝트
 
@@ -27,6 +27,7 @@ TODO - AWS 인프라 구축 해보기
 - RDS
 - S3
 - SES
+
 
 ### 8월 프로젝트
 
