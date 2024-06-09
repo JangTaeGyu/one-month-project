@@ -13,7 +13,7 @@ Spring Boot 로 Blog API 서비스를 만들어 보자
 
 ### 6월 프로젝트
 
-Gradle 를 활용해서 멀티 모듈 프로젝트를 만들어 보자
+진행중 - Gradle 를 활용해서 멀티 모듈 프로젝트를 만들어 보자
 
 [**GitHub**](https://github.com/JangTaeGyu/spring-boot-multi-module)
 
